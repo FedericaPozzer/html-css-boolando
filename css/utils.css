@@ -3,6 +3,7 @@
 .container {
 	max-width: 1200px;
 	margin: 0 auto;
+	background-color: #ffffff;
 
 	/* background-color: palevioletred; */
 }
@@ -33,4 +34,8 @@ a {
 
 .fixed {
     position: fixed;
+}
+
+.smaller {
+	font-size: smaller;
 }
