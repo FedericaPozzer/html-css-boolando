@@ -3,10 +3,34 @@
 .container {
 	max-width: 1200px;
 	margin: 0 auto;
+
+	/* background-color: palevioletred; */
 }
 
-.clearfix::after {
+/* .clearfix::after {
 	content: '';
 	clear: both;
 	display: table;
+} */
+
+.d-flex {
+	display: flex;
+}
+
+a {
+	text-decoration: none;
+	cursor: pointer;
+	color: #ffffff;
+}
+
+.relative {
+	position: relative;
+}
+
+.absolute {
+	position: absolute;
+}
+
+.fixed {
+    position: fixed;
 }
