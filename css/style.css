@@ -84,6 +84,14 @@ header > nav {
     margin-bottom: 4px; /* sad solution */
 }
 
+.col-img:hover > .discount {
+    bottom: 1.75rem; /* sad solution */
+}
+
+.col-img:hover > .sustainability {
+    bottom: 1.75rem; /* sad solution */
+}
+
 .heart:hover {
     color: #ff1f1f;
 }
